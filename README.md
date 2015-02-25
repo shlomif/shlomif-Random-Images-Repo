@@ -13,6 +13,9 @@ Solver (fc-solve) Subversion repository.
 - screenshot of PySolFC with a Black Hole Solitaire deal as used on Wikipedia/
 Wikimedia Commons.
 
+* slashdot-1-apr-2006-screenshot.png - screenshot of Slashdot from 1 April
+2006 (April Fools’ Day with the "OMG!! Ponies!!" look and pinkdot).
+
 * test-run-colors-screenshot.png - https://metacpan.org/release/Test-Run with
 colorful output.
 
