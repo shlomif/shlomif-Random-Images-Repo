@@ -2,6 +2,9 @@ This repository contains various images that I (= Shlomi Fish) have collected.
 
 Here are some of the highlights:
 
+* blue-rabbit.svg - my attempt at creating a blue rabbit for
+http://www.shlomifish.org/humour/Blue-Rabbit-Log/ .
+
 * bugs.gif - see http://www.shlomifish.org/MathVentures/bugs-in-square-mathml.xhtml .
 
 * euler-181.png - screenshot after solving Project Euler No. 181.
