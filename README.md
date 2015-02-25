@@ -6,6 +6,9 @@ Here are some of the highlights:
 
 * euler-181.png - screenshot after solving Project Euler No. 181.
 
+* fc-solve-r2000.png - screenshot of revision 2,000 of the old Freecell
+Solver (fc-solve) Subversion repository.
+
 * pysol-black-hole-solitaire-deal-1000-with-public-domain-tabletile.xcf.xz
 - screenshot of PySolFC with a Black Hole Solitaire deal as used on Wikipedia/
 Wikimedia Commons.
