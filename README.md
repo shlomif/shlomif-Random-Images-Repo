@@ -2,6 +2,8 @@ This repository contains various images that I (= Shlomi Fish) have collected.
 
 Here are some of the highlights:
 
+* bugs.gif - see http://www.shlomifish.org/MathVentures/bugs-in-square-mathml.xhtml .
+
 * pysol-black-hole-solitaire-deal-1000-with-public-domain-tabletile.xcf.xz
 - screenshot of PySolFC with a Black Hole Solitaire deal as used on Wikipedia/
 Wikimedia Commons.
