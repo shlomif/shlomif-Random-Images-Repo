@@ -6,6 +6,9 @@ Here are some of the highlights:
 - screenshot of PySolFC with a Black Hole Solitaire deal as used on Wikipedia/
 Wikimedia Commons.
 
+* test-run-colors-screenshot.png - https://metacpan.org/release/Test-Run with
+colorful output.
+
 * tiger_standing.gif - a photo from a collection recommended by GIMP which
 from what I recall was Public Domain.
 
