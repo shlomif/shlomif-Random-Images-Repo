@@ -15,6 +15,10 @@ Solver (fc-solve) Subversion repository.
 * g_anwar1.jpg - photo of https://en.wikipedia.org/wiki/Gabrielle_Anwar .
 Probably proprietary.
 
+* katie-holmes (Modified).jpg and katie-holmes.jpg - image of Katie Holmes
+, probably from the now defunct Simply Beautiful web site, with a modified
+version.
+
 * lena_color2.jpg - the photo of https://en.wikipedia.org/wiki/Lenna
 
 * lena.gif - the photo of https://en.wikipedia.org/wiki/Lenna
