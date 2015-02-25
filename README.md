@@ -31,6 +31,9 @@ version.
 * linux-il_front.xcf.xz - old logo prepared for the Linux-IL / Israeli
 Group of Linux Users (IGLU) group.
 
+* linux-with-background.xcf.xz - old logo prepared for the Linux-IL / Israeli
+Group of Linux Users (IGLU) group.
+
 * no-e-patents.png - logo I created for the "No Software Patents" movement.
 
 * no-software-patents.svg - logo I created for the "No Software Patents"
