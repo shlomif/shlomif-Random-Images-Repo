@@ -39,6 +39,8 @@ Wikimedia Commons.
 
 * screenshot1.png - old screenshot of my KDE desktop.
 
+* shlomif-kde-screen.png - old screenshot of my KDE desktop.
+
 * slashdot-1-apr-2006-screenshot.png - screenshot of Slashdot from 1 April
 2006 (April Fools’ Day with the "OMG!! Ponies!!" look and pinkdot).
 
