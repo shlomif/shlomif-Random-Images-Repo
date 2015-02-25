@@ -28,6 +28,9 @@ version.
 
 * lena_color.png - the photo of https://en.wikipedia.org/wiki/Lenna
 
+* linux-il_front.xcf.xz - old logo prepared for the Linux-IL / Israeli
+Group of Linux Users (IGLU) group.
+
 * no-e-patents.png - logo I created for the "No Software Patents" movement.
 
 * no-software-patents.svg - logo I created for the "No Software Patents"
