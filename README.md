@@ -12,6 +12,9 @@ http://www.shlomifish.org/humour/Blue-Rabbit-Log/ .
 * fc-solve-r2000.png - screenshot of revision 2,000 of the old Freecell
 Solver (fc-solve) Subversion repository.
 
+* g_anwar1.jpg - photo of https://en.wikipedia.org/wiki/Gabrielle_Anwar .
+Probably proprietary.
+
 * lena_color2.jpg - the photo of https://en.wikipedia.org/wiki/Lenna
 
 * lena.gif - the photo of https://en.wikipedia.org/wiki/Lenna
