@@ -9,6 +9,11 @@ Here are some of the highlights:
 * fc-solve-r2000.png - screenshot of revision 2,000 of the old Freecell
 Solver (fc-solve) Subversion repository.
 
+* no-e-patents.png - logo I created for the "No Software Patents" movement.
+
+* no-software-patents.svg - logo I created for the "No Software Patents"
+movement.
+
 * pysol-black-hole-solitaire-deal-1000-with-public-domain-tabletile.xcf.xz
 - screenshot of PySolFC with a Black Hole Solitaire deal as used on Wikipedia/
 Wikimedia Commons.
