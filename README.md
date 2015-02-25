@@ -43,6 +43,9 @@ movement.
 - screenshot of PySolFC with a Black Hole Solitaire deal as used on Wikipedia/
 Wikimedia Commons.
 
+* rabbit.svg - my attempt at drawing the profile of a rabbit. For
+http://www.shlomifish.org/humour/Blue-Rabbit-Log/ .
+
 * screenshot1.png - old screenshot of my KDE desktop.
 
 * shlomif-kde-screen.png - old screenshot of my KDE desktop.
