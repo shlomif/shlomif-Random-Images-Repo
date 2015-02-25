@@ -43,6 +43,8 @@ movement.
 - screenshot of PySolFC with a Black Hole Solitaire deal as used on Wikipedia/
 Wikimedia Commons.
 
+* qantor.svg - attempted logo for the Qantor typesetting system.
+
 * rabbit.svg - my attempt at drawing the profile of a rabbit. For
 http://www.shlomifish.org/humour/Blue-Rabbit-Log/ .
 
